@@ -145,13 +145,239 @@ a) 1s b) 0.2s c) 50ms d) 1ms e) 500 µs f) 10 µs
 
 ![image](https://user-images.githubusercontent.com/117187676/211223316-b868a73f-cb0c-404b-b852-73b2a4a6a8f9.png)
 
+31.- Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57.
 
+![image](https://user-images.githubusercontent.com/117187676/211223337-bceaaee8-7c2a-4963-b550-43fdcc0b1dd0.png)
 
+![image](https://user-images.githubusercontent.com/117187676/211223342-3b0225c9-42e6-4fa6-ba4b-f6fd7f58476a.png)
 
+33.- Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud.
 
+![image](https://user-images.githubusercontent.com/117187676/211223346-5d36eedc-b1ff-4fb5-b450-78bcb09f52e8.png)
+tr = 3 - 1 = 2 [ms]
 
+  tf = 15 - 13 = 2 [ms]
 
+  tw = 14.5 - 2 = 12.5 [ms]
+  
+  35.- Calcule el valor promedio de la forma de onda pulsante mostrada en la figura 11-85. 
+  
+![image](https://user-images.githubusercontent.com/117187676/211223373-5f17b501-55f9-43ba-a910-d78be6484ba7.png)
 
+Vprom = línea de base + (ciclo de trabajo)(amplitud)
+
+Vprom = 5 + (0.5)(5)
+
+Vprom = 7.5 [v]
+
+37.- Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86.
+
+![image](https://user-images.githubusercontent.com/117187676/211223384-08c86fc2-8b4a-4e68-8ff7-aa13fad5f0c0.png)
+
+a: 
+
+Vprom = línea de base + (ciclo de trabajo)(amplitud)
+
+Vprom = -1 + (0.5)(2.5)
+
+Vprom = 0.25 [v]
+
+b: 
+
+Vprom = línea de base + (ciclo de trabajo)(amplitud)
+
+Vprom = 1 + (0.5)(3)
+
+Vprom = 2.5 [v]
+
+39.- ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
+
+![image](https://user-images.githubusercontent.com/117187676/211223407-01a9cacc-0ee3-4f98-b902-85824b6025a8.png)
+
+ a: 
+  f = 1/T
+  T = 20 
+  f = 1 / 20 
+  f = 50 kHz 
+  
+  b: 
+  T= 100
+  f = 1/100
+  f = 10 Hz 
+
+41.- El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
+
+T = 40 ms
+  f = 1/T
+  f = 1/40 
+  f = 25 Hz
+
+  1: 27, 2: 29, 3: 31, 4: 33. 5: 35, 6: 37       
+
+SECCIÓN 11–10 El osciloscopio
+
+43.- Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura 11-89.
+
+![image](https://user-images.githubusercontent.com/117187676/211223427-cfebd1c4-4855-4242-b556-465c2b5e4906.png)
+
+Vp = 3 divisiones * 0.2 V/división = 0.6 [V]
+ T = 10 divisiones * 50 ms/división = 500 [ms]
+
+45.- Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
+
+![image](https://user-images.githubusercontent.com/117187676/211223451-e34500a9-949b-4b7a-8ee0-05cbe2051ca4.png)
+
+Vp  = 2Vp(salida) 1.2 [V]
+  T = 2T(salida) = 1000 [ms]
+  
+## CAPACITORES
+
+(a) Encuentre la capacitancia cuando Q = 50 µC y V = 10 V.
+
+![image](https://user-images.githubusercontent.com/117187676/211223503-dbe5279e-d147-4837-b8e9-1a9a74be9663.png)
+
+(b) Determine la carga cuando C = 0.001 µF y V = 1 kV.
+
+![image](https://user-images.githubusercontent.com/117187676/211223507-e8642559-8a50-4e69-aa5e-840143c8538f.png)
+
+(c) Determine el voltaje cuando Q = 2 µC y C = 200 µF.
+
+![image](https://user-images.githubusercontent.com/117187676/211223511-c3d3513b-91b2-48c0-b63c-0dd48f2ef642.png)
+
+3. Transforme los siguientes valores de picofarads a microfarads:
+
+(a) 1000 pF
+
+![image](https://user-images.githubusercontent.com/117187676/211223533-aa8a2e33-9c48-42fe-aeb1-ac81bb2c1557.png)
+
+(b) 3500 pF
+
+![image](https://user-images.githubusercontent.com/117187676/211223534-ad0f1355-94f6-4db2-b234-41343d34f5b1.png)
+
+(c) 250 pF
+
+![image](https://user-images.githubusercontent.com/117187676/211223536-7d4ae124-96be-44fd-8df8-ddef0c33781c.png)
+
+5. ¿Cuánta energía guarda un capacitor de 1000 µF que se carga a 500 V?
+
+![image](https://user-images.githubusercontent.com/117187676/211223547-b94b74b9-dfc3-4dda-9529-af588022897a.png)
+
+7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de εr.
+
+![image](https://user-images.githubusercontent.com/117187676/211223554-330be187-d72d-4fa2-8826-d08b05d9bc34.png)
+
+(a) aire
+
+![image](https://user-images.githubusercontent.com/117187676/211223573-f350db2f-defd-4630-ba4d-a29a4c05df22.png)
+
+(b) aceite
+
+![image](https://user-images.githubusercontent.com/117187676/211223578-9f45603d-de47-40ae-a5f5-6e4866b4f3e0.png)
+
+(c) vidrio
+
+![image](https://user-images.githubusercontent.com/117187676/211223583-d376af01-9fbc-4ee5-8641-a9b57a718d6c.png)
+
+(d) Teflón
+
+![image](https://user-images.githubusercontent.com/117187676/211223589-325475fa-a818-416e-9112-bca24aa83e0f.png)
+
+9. Un capacitor de aire tiene un área de placas total de 0.05 m^2. La separación entre las placas es de 4.5 x 10^-4 m. Calcule la capacitancia.
+
+![image](https://user-images.githubusercontent.com/117187676/211223602-ab5ef32c-acc7-48d7-8bc8-58341df9e923.png)
+
+11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (ε r.= 2.5) de 8 x 10^-5 de espesor. ¿Cuál es la capacitancia de su capacitor?
+
+![image](https://user-images.githubusercontent.com/117187676/211223612-9a422d05-bc13-46c7-a94b-2a734f5ef453.png)
+
+13. Un capacitor de 0.001 µF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+
+Respuesta:
+
+Se sabe que un coeficiente de temperatura indica la cantidad y dirección de un cambio de valor de capacitancia debido a la temperatura. Por lo que al poseer el capacitor una temperatura positiva de 500 ppm/°C significa que la capacitancia se incrementa con una elevación de la temperatura o disminuye con un descenso de ésta. Es decir, si aumenta la temperatura en 25°C la capacitancia incrementa en 12.5 pF
+
+15.- De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+
+er (mica) = 5.0
+ er (ceram..) = 1200
+
+ CAPACITOR CERAMICO
+ 
+17.- Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
+
+CAPACITORES DE ALUMINIO
+ CAPACITORES DE TANTALIO
+ 
+ TIENEN UN VOLTAJE DE RUPTURA  BAJOS
+ CANTIDADES DE FUGA ALTOS.
+
+19.- Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.
+
+![image](https://user-images.githubusercontent.com/117187676/211223736-eb62b4e6-2099-4159-9a33-ecfdb2e77957.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223743-bbade3c6-04b9-4c3b-82ab-4b8bf8e8b767.png)
+
+21.- Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
+
+![image](https://user-images.githubusercontent.com/117187676/211223747-9bcde30f-950d-49b7-8c19-27bf65c96dfa.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223750-66e1e9c0-3e79-45df-b43a-8dee38977c71.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223753-42ce2cf9-c203-439c-a7f7-1bd83ec5ff5e.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223755-3cbdfcf3-1f30-4040-8670-218782af8464.png)
+
+23.- Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
+
+![image](https://user-images.githubusercontent.com/117187676/211223765-82d3286d-8d03-4cca-9b12-aea8845e44b5.png)
+
+25.- Determine la CT para cada circuito de la figura 12-71.
+
+![image](https://user-images.githubusercontent.com/117187676/211223769-0f8ac0aa-5f03-402c-90c4-a59518194a83.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223771-cf113bf9-422e-49a9-87f5-1fa0b24f6420.png)
+
+27.- Determine la CT para cada circuito de la figura 12-72.
+
+![image](https://user-images.githubusercontent.com/117187676/211223775-09c38145-02f3-44ee-b26f-ea6e250d0720.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223778-74930581-4987-42de-8590-4b75955da048.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223780-ad7b7134-9df5-49a9-87ec-31193baba978.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223783-f7c81fb5-47e2-48d3-977d-04cab2f89504.png)
+
+31.- Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
+
+31.- Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
+
+![image](https://user-images.githubusercontent.com/117187676/211223788-d805db20-874d-4e5f-900e-26edb46a7000.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223793-a4568358-74f7-452b-b799-cbf8e2b4c06a.png)
+
+33.- En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores? (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
+
+![image](https://user-images.githubusercontent.com/117187676/211223800-bde22e80-34a4-45c6-b65b-4f331782e78b.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223804-466609d3-17fd-40ca-a8eb-5c91b3d9fd08.png)
+
+35.- Repita el problema 33 con los siguientes tiempos: (a) 0.5 ms (b) 1 ms (c) 2 ms
+
+![image](https://user-images.githubusercontent.com/117187676/211223813-b19fe5a6-2513-4a13-b244-479345b3be1e.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223817-f3aa2b06-fcfd-4d2f-80f5-82d2b0f14142.png)
+
+37.- ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
+
+![image](https://user-images.githubusercontent.com/117187676/211223823-e7c26236-c3a2-4193-aafb-653b751ac7b3.png)
+
+v = VF(1 - e^(-t/RC))
+
+8 = 12 (1 - e^(-t/0.22))
+
+t = 7.62 us
+
+Determine la constante de tiempo para el circuito de la figura 12-77.
 
 
 

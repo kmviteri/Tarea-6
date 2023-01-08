@@ -382,8 +382,89 @@ t = 7.62 us
 (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
 
 Respuesta
+(b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
 
+SECCIÓN 12–6 Capacitores en circuitos de ca
+En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso.
 
+Xc = 1/2pifC
+
+(a)
+
+Xc = 1/2pi(2)(2.62)
+
+Xc = 30.4 ohm
+
+(b)
+
+Xc = 1/2pi(2)(689)
+
+Xc = 116 kohm
+
+(c)
+
+Xc = 1/2pi(2)(1.6)
+
+Xc = 49.7 ohm
+
+Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
+I = V/Xc
+
+Xc = V/I
+
+Xc = 20/100
+
+Xc = 200 ohm
+
+Determine la potencia verdadera y la potencia reactiva en el problema 46.
+Para un capacitor ideal, la potencia real Preal, siempre es de cero
+
+0W
+
+XC = 1/2pifC
+Xc = 1/ 2pi(10)(0.01 x 0.0047)
+Xc = 33.86
+
+Pr = V^2rms/XC
+Pr = (2 V)^2/33.86 kohm
+Pr = 503 * 10-6 VAR
+Pr = 3.39 mVAR
+
+Determine el valor de C1 en la figura 12-82.
+image
+
+Ceq = 0.0022 + 0.0015
+Ceq = 0.037
+
+Xc3 = 1/2pifC
+f = 1/2piXcC
+f = 1/2pi(750)0.0015
+f = 0.141kHz
+
+Para encontrar C1
+
+Xc = 1/2pifC
+C1 = 1/2pifXc
+C1 = 1/2pi(0.141kHz)(750)
+C1 = 0.00541 uF
+
+SECCIÓN 12–7 Aplicaciones de los capacitores
+Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+image
+
+Respuesta
+
+Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia, la fluctuación se reduce.
+
+SECCIÓN 12–8 Circuitos de capacitor conmutado
+En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
+Se va a usar la formula
+
+R = T/C
+
+R = 10/2200
+
+R = 4.55 kohm
 
 
 

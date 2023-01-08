@@ -377,8 +377,11 @@ v = VF(1 - e^(-t/RC))
 
 t = 7.62 us
 
-Determine la constante de tiempo para el circuito de la figura 12-77.
+39. Determine la constante de tiempo para el circuito de la figura 12-77.
 
+(a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+
+Respuesta
 
 
 

@@ -466,11 +466,23 @@ R = 10/2200
 
 R = 4.55 kohm
 
+# 4.VIDEO
 
+https://youtu.be/EBBYtW6nADug
 
+# 5.CONCLUSIONES
 
+* Como conclusión cuando se conectan capacitores en serie, la capacitancia total es menor que el valor de la capacitancia más pequeña, esto se debe a que la separación efectiva entre las placas se incrementa. Para calcular la capacitancia total en serie se lo realiza de igual manera que la resistencia total de resistores dispuestos en paralelo.
 
+* También se tiene que cuando se conectan capacitores en paralelo, la capacitancia total es la suma de las capacitancias individuales, esto se debe a que el área de las placas se incrementa. Para realizar el cálculo de la capacitancia total en paralelo, se lo realiza de la misma manera de la resistencia total en serie.
 
+* Entendimos como resolver circuitos magnéticos en serie y en serie-paralelo y vimos que estos no son tan precisos como el análisis de circuitos eléctricos.
+
+* Luego de la resolución de los ejercicios aplicando los conceptos y ecuaciones de carga y descarga del capacitador en circuitos simples y complejos. Se puede concluir que se debe razonar el procedimiento paso a paso para obtener la solución correcta. Las curvas constantes de tiempo tienen la misma forma de onda de la descarga.
+
+# 6. Bibliografia:
+
+F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
 
 
 

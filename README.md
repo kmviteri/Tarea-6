@@ -135,12 +135,15 @@ a) 1s b) 0.2s c) 50ms d) 1ms e) 500 µs f) 10 µs
 
 ![image](https://user-images.githubusercontent.com/117187676/211223248-4b6628e4-9058-424e-b0af-114cfd1703fb.png)
 
-![image](https://user-images.githubusercontent.com/117187676/211223251-77467ae2-2784-4eaf-85cb-e3b5ae2af6ef.png)
-
 
 ![image](https://user-images.githubusercontent.com/117187676/211223256-a12f709f-0d32-45aa-ac51-2d49fef5954b.png)
 
+![image](https://user-images.githubusercontent.com/117187676/211223313-4e2d03f2-ccff-46a6-a8b2-435436e9fd54.png)
+
+
 ![image](https://user-images.githubusercontent.com/117187676/211223266-5dfd2ec8-cf87-440e-b832-0b9befdd688b.png)
+
+![image](https://user-images.githubusercontent.com/117187676/211223316-b868a73f-cb0c-404b-b852-73b2a4a6a8f9.png)
 
 
 
